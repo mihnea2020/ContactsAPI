@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ContactsAPI",
+    "\\ContactsAPI\\Data",
+    "\\ContactsAPI\\Migrations",
+    "\\ContactsAPI\\Models"
+  ],
+  "SelectedNode": "\\ContactsAPI\\Data\\ContactsAPIDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
